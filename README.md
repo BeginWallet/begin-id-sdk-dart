@@ -1,6 +1,6 @@
 ![github actions workflow](https://github.com/BeginWallet/begin-id-sdk-dart/actions/workflows/main.yml/badge.svg)
 
-A Flutter package containing Begin Wallet Begin-ID SDK. Easy to integrate and use across Flutter and Dart applications. 
+A Flutter package containing Begin Wallet Begin-ID SDK. Easy to integrate and use across Flutter and Dart applications. Resolve Cardano address from the Begin-ID or reverse resolve profile details from payment or reward address.
 
 ## Features
 
