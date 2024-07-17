@@ -1,3 +1,7 @@
+## 1.0.3
+
+* Automatic upload to pub.dev implemented (bugfix)
+
 ## 1.0.2
 
 * Automatic upload to pub.dev implemented
