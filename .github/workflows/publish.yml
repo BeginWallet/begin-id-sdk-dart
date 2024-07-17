@@ -21,8 +21,8 @@ jobs:
       - run: flutter test
       - name: Check Publish Warnings
         run: dart pub publish --dry-run
-      - name: Publish
-        uses: k-paxian/dart-package-publisher@v1.5.1
+      - name: '>> Dart package <<'
+        uses: k-paxian/dart-package-publisher@master
         with:
           credentialJson: ${{ secrets.CREDENTIAL_JSON }}
           flutter: true
