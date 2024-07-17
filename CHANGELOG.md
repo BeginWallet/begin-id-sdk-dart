@@ -1,3 +1,7 @@
+## 1.0.2
+
+* Automatic upload to pub.dev implemented
+
 ## 1.0.1
 
 * Description update
