@@ -13,16 +13,11 @@ jobs:
         with:
           channel: 'stable'
           architecture: x64
-      - name: Install dependencies
       - run: flutter pub get
-      - name: Analyze
-        run: flutter analyze
-      - name: Run tests
+      - run: flutter analyze
       - run: flutter test
-      - name: Check Publish Warnings
-        run: dart pub publish --dry-run
-      - name: '>> Dart package <<'
-        uses: k-paxian/dart-package-publisher@master
+      - run: dart pub publish --dry-run
+      - uses: k-paxian/dart-package-publisher@master
         with:
           credentialJson: ${{ secrets.CREDENTIAL_JSON }}
           flutter: true
