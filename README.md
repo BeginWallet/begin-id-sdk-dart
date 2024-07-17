@@ -1,6 +1,6 @@
 ![example workflow](https://github.com/BeginWallet/begin-id-sdk-dart/actions/workflows/flutter.yml/badge.svg)
 
-A Flutter package containing Begin Wallet Begin-ID SDK
+A Flutter package containing Begin Wallet Begin-ID SDK. Easy to integrate and use across Flutter and Dart applications. 
 
 ## Features
 
@@ -41,11 +41,17 @@ You are very welcome to contribute to the package:
 
 We will check your input asap
 
+## Created by
+
+AndroDevs @2024
+
+Follow us on X [AndroDevs](https://x.com/AndroDevs)
+
 ## Publisher
 
-Created by AndroDevs @2024
+begin.is
 
-Follow us on X [AndroDevs](https://twitter.com/AndroDevs)
+Follow us on X [BeginWallet](https://x.com/BeginWallet)
 
 ## Disclaimer
 
