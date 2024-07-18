@@ -1,6 +1,6 @@
 name: begin_id_sdk_dart
-description: Flutter/Dart Begin Wallet Begin-ID SDK package
-version: 1.0.3
+description: Flutter/Dart Begin Wallet Begin-ID SDK package. Easy to integrate and use across Flutter and Dart applications.
+version: 1.0.4
 homepage: https://github.com/BeginWallet/begin-id-sdk-dart.git
 
 environment:
