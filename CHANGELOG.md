@@ -1,3 +1,7 @@
+## 1.0.4
+
+* Added a longer package description
+
 ## 1.0.3
 
 * Automatic upload to pub.dev implemented (bugfix)
